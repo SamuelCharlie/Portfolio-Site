@@ -1,6 +1,6 @@
 ## Samuel Charlie Portfolio Page
 
-A gallery showcasing a variety of pieces I have worked on through out my career
+A gallery showcasing a variety of pieces I have worked on through out my career:
 
 ### Markdown
 
