@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Samuel Charlie Portfolio Page
 
-You can use the [editor on GitHub](https://github.com/SamuelCharlie/Portfolio-Site/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A gallery showcasing a variety of pieces I have worked on through out my career
 
 ### Markdown
 
