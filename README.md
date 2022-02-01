@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[https://samuelcharlie.github.io/Samuel-Charlie-Portfolio-Page/](url) and ![Image](src)
+[Portfolio Site](https://samuelcharlie.github.io/Samuel-Charlie-Portfolio-Page/) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
