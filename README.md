@@ -1,11 +1,8 @@
 ## Samuel Charlie Portfolio Page
 
 A gallery showcasing a variety of pieces I have worked on through out my career:
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+[Portfolio Site](https://samuelcharlie.github.io/Samuel-Charlie-Portfolio-Page/)
+[Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 ```markdown
 Syntax highlighted code block
 
@@ -21,7 +18,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Portfolio Site](https://samuelcharlie.github.io/Samuel-Charlie-Portfolio-Page/) and ![Image](src)
+![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
